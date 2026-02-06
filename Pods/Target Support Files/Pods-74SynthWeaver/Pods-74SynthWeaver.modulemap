@@ -1,0 +1,6 @@
+framework module Pods_74SynthWeaver {
+  umbrella header "Pods-74SynthWeaver-umbrella.h"
+
+  export *
+  module * { export * }
+}
